@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/apitype=wave&color=auto&height=300&section=header&text=Hyeonji's%20Github20Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/apitype=wave&color='EEFF00'&height=300&section=header&text=Hyeonji's%20Github20Profile&fontSize=90)
 
 ### Hello! HyeonJi's coding 😄
 
