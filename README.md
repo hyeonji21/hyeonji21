@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github.com/anuraghazra/github-readme-stats)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji21&show_icons=true&theme=radical)
 
