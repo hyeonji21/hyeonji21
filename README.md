@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,70:a82da8&height=300&section=header&text=Hyeonji's%20Github%20Profile&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20improve%20my%20programming%20skills.&descSize=18&descAlignY=51&descAlign=57&fontColor=FFFFFF)
 
-### Hello! HyeonJi's coding 😄
+### Hello, HyeonJi's coding. Thanks to visit my Github.
 
-
-#### Thanks to visit my Github.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonji21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 -----------
